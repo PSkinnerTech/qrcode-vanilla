@@ -1,5 +1,7 @@
 # Create a Static QR Code Generator using Vanilla JavaScript, HTML, and Tailwind CSS
 
+![Screenshot 2023-04-17 at 5 15 33 PM](https://user-images.githubusercontent.com/78289253/232625173-78b8f3ca-d740-4b51-9842-a3e4b02253a1.png)
+
 ## Creating a User-Friendly QR Code Generator: Building a Static Web Application with Vanilla JavaScript, HTML, and Tailwind CSS
 
 In this tutorial, we will create a static QR Code Generator application using vanilla JavaScript, HTML, and Tailwind CSS. The application will allow users to enter a URL, generate a QR code, and download the QR code as an image.
